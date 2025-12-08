@@ -21,11 +21,11 @@ Use this log to track your actual workouts, how you felt, and any notes for adju
 | Thu (11/14) | - | - | - |
 | Fri (11/15) | - | Tempo: 3.5mi @ 6:33, 1.5 @ 6:10, 38 miles cumulative by Friday | Felt strong |
 | Sat (11/16) | 6 miles easy | 6 miles @ 7:15 avg | left watch at home, ran on feel, felt good |
-| Sun (11/17) | 13 miles w/ quality | 13 miles, miles 4-11 @ MP (6:50) | Practiced fueling: gel at mile 7 |
+| Sun (11/17) | 6 miles easy | 9 miles easy | fun run with friends
 
 **Week Notes:**
 - Weather: Cool, good conditions, but hard to adjust early on
-- Nutrition: 
+- Nutrition: No on the run nutrition this week, should do more
 - How I felt: Strong, ready to start structured plan
 - Adjustments needed: None, good foundation week
 
@@ -33,51 +33,76 @@ Use this log to track your actual workouts, how you felt, and any notes for adju
 
 ## Week 1 (Nov 18-24) - Base Building
 
-**Total Mileage:** ___ miles (target: 52)
+**Total Mileage:** 48 miles (target: 52)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | Rest or easy 4 | | |
-| Tue | **12 miles easy - LONG RUN** | | 1 PM start |
-| Wed | 8 mi w/ 6x800m @ 6:00 | | 1-2 PM start |
-| Thu | 6 miles easy | | Recovery |
-| Fri | 6 miles easy | | |
-| Sat | 6 miles easy | | 7:30 AM |
-| Sun | 13 mi w/ last 6 @ MP (6:45-6:55) | | 7:30 AM, practice fueling |
+| Mon | Rest or easy 4 |6.5 easy miles | Loop of the park+ |
+| Tue | **12 miles easy - LONG RUN** |13.1 @ 7:15 pace | 1 PM start |
+| Wed | 8 mi w/ 6x800m @ 6:00 |9 mi with 6x800 @ 6:10 | 1-2 PM start |
+| Thu | 6 miles easy |Skip, no miles | Recovery |
+| Fri | 6 miles easy |11 miles, last 8.5 at 6:58 | |
+| Sat | 6 miles easy | skipped, family obligations | 7:30 AM |
+| Sun | 13 mi w/ last 6 @ MP (6:45-6:55) | did 7 miles at 7:30, decided to run with friends  | 7:30 AM, practice fueling |
 
 **Week Notes:**
 - Weather:
-- Tuesday long run - how did it feel?
-- Wednesday workout - recovery adequate?
-- Fueling practiced on Sunday?
+- Tuesday long run - how did it feel? - Good, practiced some run nutrition with chews at 60 and 90 minutes
+- Wednesday workout - recovery adequate? - Yes, felt very good going into the run
+- Thursday complete rest day followed by slightly faster run on Friday felt great
+- Fueling practiced on Sunday? - skipped it to run with friends, keep running fun
 - Adjustments needed:
 
 ---
 
-## Week 2 (Nov 25-Dec 1) - Base Building
+## Week 2 (Nov 25-Dec 1) - RECOVERY WEEK
 
-**Total Mileage:** ___ miles (target: 56)
+**Total Mileage:** 20 miles (target: 50)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | Rest or easy 4 | | |
-| Tue | **14 miles easy - LONG RUN** | | 1 PM start |
-| Wed | 8 mi w/ 5mi tempo @ 6:40-6:50 | | 1-2 PM start |
-| Thu | 6 miles easy | | Recovery - keep easy |
-| Fri | 6 miles easy | | |
-| Sat | 6 miles easy | | 7:30 AM |
-| Sun | 13 mi progressive (7:30→6:50) | | 7:30 AM |
+| Mon | Rest | | Full rest |
+| Tue | **12 miles easy - LONG RUN** |7 miles, 17 min tempo at 6:20, 10 min tempo at 6:30 | Recovery week |
+| Wed | 8 mi w/ 6x400m @ 5:45 |Recovery 6.6 miles at 7:16 | Short intervals |
+| Thu | 6 miles easy |0 | |
+| Fri | 6 miles easy |0 | |
+| Sat | 6 miles easy |0 | 7:30 AM |
+| Sun | 10 miles easy |6.6 at 7:07 | Easy effort only |
 
 **Week Notes:**
-- Weather:
-- 14-miler felt:
-- Tempo execution:
-- Recovery adequate?
-- Adjustments needed:
+- How do you feel after 3 weeks of building?
+-- good, managed to rest this week, felt strong
+- Energy levels: ok, a little low but looking forward to getting back into it
+- Any aches/pains? my back a little, nothing major
+- Ready for strength building phase? yes
+--- Overall I scaled way back this week, primarily because I was balancing time
+with the family and off the usual schedule.  I could not do 2 hour runs, so 
+kept it minimal and took the rest week.
+
+## Week 3 (Dec 2-Dec 8) - Base Building
+
+**Total Mileage:** 55 miles (target: 56)
+
+| Day | Planned | Actual | Notes |
+|-----|---------|--------|-------|
+| Mon | Rest or easy 4 |18 miles at 7:20, food at 60 and 90 minutes | Felt great, very strong |
+| Tue | **14 miles easy - LONG RUN** | 4 mile easy at 7:30| Treadmill recovery run, bad weather outside |
+| Wed | 8 mi w/ 5mi tempo @ 6:40-6:50 |10 miles with 5 miles of tempo @ 6:17 | Hard run, but felt good |
+| Thu | 6 miles easy |4 miles at 7:30 | Recovery treadmill run, cold outside.  Did core workout |
+| Fri | 6 miles easy |6 miles at 6:41 | Felt strong and was tight on time, so ended up running faster than intended |
+| Sat | 6 miles easy |Skipped, kept it easy, full recovery | 7:30 AM |
+| Sun | 13 mi progressive (7:30→6:50) |13 miles with progression, avg 6:56 pace | 7:30 AM, ran with Oscar, did last 2 miles up a hill at 6:50, felt strong |
+
+**Week Notes:**
+- Weather: Getting colder, adapting to it
+- 14-miler felt: Upped it ot 18 miles and ran on Monday to take advantage of rest from last week
+- Tempo execution: Started fast and held it through the interval, felt good
+- Recovery adequate? I felt a little weak going into Sunday's run, but warmed up and felt good
+- Adjustments needed: Need to pay attention to nutrition, has a big effect on recovery
 
 ---
 
-## Week 3 (Dec 2-8) - Base Building
+## Week 4 (Dec 9-15) - Base Building
 
 **Total Mileage:** ___ miles (target: 60)
 
@@ -99,26 +124,6 @@ Use this log to track your actual workouts, how you felt, and any notes for adju
 - Adjustments needed:
 
 ---
-
-## Week 4 (Dec 9-15) - RECOVERY WEEK
-
-**Total Mileage:** ___ miles (target: 50)
-
-| Day | Planned | Actual | Notes |
-|-----|---------|--------|-------|
-| Mon | Rest | | Full rest |
-| Tue | **12 miles easy - LONG RUN** | | Recovery week |
-| Wed | 8 mi w/ 6x400m @ 5:45 | | Short intervals |
-| Thu | 6 miles easy | | |
-| Fri | 6 miles easy | | |
-| Sat | 6 miles easy | | 7:30 AM |
-| Sun | 10 miles easy | | Easy effort only |
-
-**Week Notes:**
-- How do you feel after 3 weeks of building?
-- Energy levels:
-- Any aches/pains?
-- Ready for strength building phase?
 
 ---
 

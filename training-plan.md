@@ -1,9 +1,10 @@
-# Napa Valley Marathon Training Plan - REVISED
+# Napa Valley Marathon Training Plan - TRAVEL ADJUSTED
 **Target Race:** Napa Valley Marathon - March 1, 2026
-**Goal:** Sub-2:50 (primary), Sub-2:58 (conservative)
+**Goal:** Sub-2:58 (primary), Sub-2:50 (stretch)
 **Target Marathon Pace:** 6:30-6:50/mile
 **Start Date:** November 18, 2025 (Week 1)
 **Training Weeks:** 15 weeks + race week
+**Travel Period:** Dec 22-Jan 5 (Weeks 6-7 modified for maintenance)
 
 ## Constraints & Modifications
 - **Saturday max:** 6 miles (family commitments)
@@ -99,71 +100,69 @@ This structure provides:
 ### Phase 2: Strength Building (Weeks 5-8)
 *Increase long run distance and workout intensity*
 
-**Week 5** (Dec 16-22) - **62 miles**
+**Week 5** (Dec 16-21) - **52 miles** *(MODIFIED - Pre-Travel)*
 - Mon: Rest or easy 4 miles
 - Tue: 16 miles easy (7:30-7:45/mile) - **Long Run**
 - Wed: 10 miles w/ 6 miles @ tempo (6:35-6:45/mile)
 - Thu: 7 miles easy
-- Fri: 7 miles easy
+- Fri: 7 miles easy (KEEP EASY!)
 - Sat: 6 miles easy
-- Sun: 13 miles w/ miles 4-11 @ marathon pace (6:35-6:45/mile)
+- Sun (Dec 22): Travel day - skip or short easy run if possible
 
-**Week 6** (Dec 23-29) - **66 miles**
-- Mon: Rest or easy 4 miles
-- Tue: 18 miles easy (7:30-7:45/mile) - **Long Run**
-- Wed: 11 miles w/ 4x1600m @ 6:10/mile, 600m jog recovery
-- Thu: 7 miles easy
-- Fri: 7 miles easy
-- Sat: 6 miles easy
-- Sun: 13 miles w/ middle 9 @ marathon pace (6:35-6:45/mile)
+**Week 6** (Dec 23-29) - **25-30 miles** *(TRAVEL MAINTENANCE WEEK)*
+- Goal: Maintain aerobic fitness, minimize detraining
+- **Target:** 4-5 runs of 45-60 minutes each @ easy pace (7:30-8:00)
+- **One quality session if possible:** 40 min run w/ 20 min @ tempo effort, OR fartlek, OR hill repeats
+- **Options:** Hotel treadmills, early morning runs, shorter runs as needed
+- **Minimum acceptable:** 20 miles for the week with at least 3-4 runs
+- **Focus:** Consistency over perfection - some running > no running
 
-**Week 7** (Dec 30-Jan 5) - **68 miles**
-- Mon: Rest or easy 4 miles
-- Tue: **20 miles easy (7:30-7:45/mile) - FIRST 20-MILER!**
-- Wed: 10 miles w/ 7 miles @ marathon pace (6:40-6:50/mile)
-- Thu: 7 miles easy
-- Fri: 7 miles easy
-- Sat: 6 miles easy
-- Sun: 13 miles w/ last 8 @ goal marathon pace (6:30-6:40/mile)
+**Week 7** (Dec 30-Jan 5) - **25-30 miles** *(TRAVEL MAINTENANCE WEEK)*
+- Goal: Maintain aerobic fitness, minimize detraining
+- **Target:** 4-5 runs of 45-60 minutes each @ easy pace (7:30-8:00)
+- **One quality session if possible:** 40 min run w/ 20 min @ tempo, OR fartlek, OR hill repeats
+- **Options:** Hotel treadmills, early morning runs, shorter runs as needed
+- **Minimum acceptable:** 20 miles for the week with at least 3-4 runs
+- **Focus:** Stay consistent - you'll rebuild quickly when you return home
 
-**Week 8** (Jan 6-12) - **54 miles** *(Recovery Week)*
-- Mon: Rest
-- Tue: 14 miles easy - **Long Run**
-- Wed: 8 miles w/ 8x400m @ 5:40/mile, 400m jog
+**Week 8** (Jan 6-12) - **50-54 miles** *(REBUILD WEEK - Post-Travel)*
+- Mon: Rest (first day back from travel)
+- Tue: 12 miles easy @ 7:30-7:45 - **Long Run** (start conservative)
+- Wed: 8 miles w/ 6x400m @ 5:45/mile, 400m jog (short speed to reactivate)
 - Thu: 6 miles easy
 - Fri: 6 miles easy
 - Sat: 6 miles easy
-- Sun: 12 miles easy
+- Sun: 10 miles easy (assess readiness for Week 9's 18-miler)
 
 ### Phase 3: Peak Training (Weeks 9-12)
 *Maximum mileage with race-specific workouts and long runs*
 
-**Week 9** (Jan 13-19) - **68 miles**
-- Mon: Rest or easy 5 miles
-- Tue: **20 miles easy (7:30-7:45/mile) - Long Run**
-- Wed: 11 miles w/ 10K @ goal marathon pace (6:30-6:40/mile)
-- Thu: 7 miles easy
-- Fri: 7 miles easy
+**Week 9** (Jan 13-19) - **62-64 miles** *(First Big Long Run Back)*
+- Mon: Rest or easy 4 miles
+- Tue: **18 miles easy @ 7:30-7:45** - FIRST 18-MILER! (fuel at 60/90/120 min)
+- Wed: 10 miles w/ 6mi tempo @ 6:35-6:45
+- Thu: 7 miles easy (recovery critical)
+- Fri: 7 miles easy (KEEP EASY!)
 - Sat: 6 miles easy
-- Sun: 13 miles w/ miles 3-12 @ marathon pace (6:35-6:45/mile)
+- Sun: **13 miles w/ miles 4-11 @ MP (6:35-6:45)** - 8 miles at marathon pace
 
-**Week 10** (Jan 20-26) - **72 miles** *(Peak Week)*
+**Week 10** (Jan 20-26) - **66-68 miles** *(First 20-Miler)*
 - Mon: Rest or easy 5 miles
-- Tue: **22 miles easy (7:30-7:45/mile) - LONGEST RUN!**
-- Wed: 10 miles w/ 2x3 miles @ 6:25/mile, 1000m jog recovery
-- Thu: 7 miles easy
-- Fri: 7 miles easy
+- Tue: **20 miles easy @ 7:30-7:45** - FIRST 20-MILER! (fuel at 60/90/120 min)
+- Wed: 10 miles w/ 7mi @ MP (6:40-6:50) - reduced volume after 20-miler
+- Thu: 7 miles easy (recovery essential)
+- Fri: 7 miles easy (EASY PACE!)
 - Sat: 6 miles easy
-- Sun: 13 miles w/ 10 miles @ marathon effort (6:35-6:45/mile)
+- Sun: **13 miles w/ last 8 @ goal MP (6:30-6:40)** - race pace confidence
 
-**Week 11** (Jan 27-Feb 2) - **70 miles**
+**Week 11** (Jan 27-Feb 2) - **68-70 miles** *(PEAK WEEK - Second 20-Miler)*
 - Mon: Rest or easy 5 miles
-- Tue: **20 miles easy (7:30-7:45/mile) - Long Run**
-- Wed: 11 miles w/ 10 miles @ marathon pace (6:35-6:45/mile)
-- Thu: 8 miles easy
+- Tue: **20 miles easy @ 7:30-7:45** - SECOND 20-MILER
+- Wed: 11 miles w/ 10K @ goal MP (6:30-6:40) - race pace work
+- Thu: 7 miles easy (recovery critical)
 - Fri: 7 miles easy
 - Sat: 6 miles easy
-- Sun: 13 miles progressive (7:15 → 6:30/mile)
+- Sun: **13 miles w/ 10mi @ MP effort (6:35-6:45)** - biggest MP day!
 
 **Week 12** (Feb 3-9) - **56 miles** *(Recovery Week)*
 - Mon: Rest
@@ -177,14 +176,14 @@ This structure provides:
 ### Phase 4: Race Prep & Taper (Weeks 13-15)
 *Maintain fitness while reducing fatigue*
 
-**Week 13** (Feb 10-16) - **66 miles**
+**Week 13** (Feb 10-16) - **64-66 miles** *(Third Big Long Run)*
 - Mon: Rest or easy 4 miles
-- Tue: 18 miles easy (7:30-7:45/mile) - **Long Run**
-- Wed: 11 miles w/ 2x4 miles @ goal marathon pace (6:30-6:40), 1 mile jog recovery
+- Tue: **20 miles easy @ 7:30-7:45** (or 18 if slightly less volume needed) - THIRD BIG RUN
+- Wed: 11 miles w/ 2x4mi @ goal MP (6:30-6:40), 1 mile jog recovery
 - Thu: 7 miles easy
 - Fri: 7 miles easy
 - Sat: 6 miles easy
-- Sun: 13 miles w/ middle 9 @ marathon pace (6:35-6:45/mile)
+- Sun: **13 miles w/ middle 9 @ MP (6:35-6:45)** - final quality long run
 
 **Week 14** (Feb 17-23) - **58 miles** *(Begin Taper)*
 - Mon: Rest or easy 4 miles
@@ -292,16 +291,16 @@ This structure provides:
 - Focus on quality over quantity
 - Listen to your body - heavy legs mean reduce the workout
 
-## Long Run Summary
+## Long Run Summary (Travel-Adjusted)
 
-**20+ Mile Runs:**
-- Week 7: 20 miles
-- Week 9: 20 miles
-- Week 10: 22 miles (longest run, 2 weeks before peak week)
-- Week 11: 20 miles
-- Week 13: 18 miles
+**18+ Mile Runs:**
+- Week 9 (Jan 13-19): 18 miles - first big long run post-travel
+- Week 10 (Jan 20-26): 20 miles - FIRST 20-MILER
+- Week 11 (Jan 27-Feb 2): 20 miles - PEAK WEEK, second 20-miler
+- Week 13 (Feb 10-16): 20 miles (or 18) - third big long run
+- Week 14 (Feb 17-23): 14 miles - taper begins
 
-**This gives you 3x 20-milers and 1x 22-miler before race day** - excellent preparation for the marathon distance.
+**This gives you 1x 18-miler and 2-3x 20-milers before race day** - adequate preparation for the marathon distance despite travel disruption.
 
 ## Race Week Protocol
 
@@ -312,11 +311,22 @@ This structure provides:
 - Stay off your feet when possible
 - Trust your training
 
-## Expected Outcomes
+## Expected Outcomes (Travel-Adjusted Plan)
 
 With proper execution of this plan:
-- **Primary goal: Sub-2:50** (60-70% probability)
-- **Secondary goal: Sub-2:58** (90-95% probability)
-- **Stretch goal: Sub-2:45** (possible if everything clicks)
+- **Primary goal: Sub-2:58** (85-90% probability)
+- **Stretch goal: Sub-2:50** (50-60% probability)
+- **Reach goal: Sub-2:45** (20-30% probability)
 
-The Tuesday long runs eliminate the primary weakness of the original plan. You'll be properly prepared for the full marathon distance with race-specific adaptations.
+**Impact of travel adjustment:**
+- Lost ~80-90 miles during Weeks 6-7 (travel maintenance vs full training)
+- Fewer total 20-mile runs (2-3 vs original 4)
+- Still have 8 weeks of structured training post-travel
+- Quality over quantity in final weeks will be critical
+
+**Keys to success:**
+1. Maintain 20-30 mpw during travel (Weeks 6-7)
+2. Execute Week 9's 18-miler successfully (confirms fitness return)
+3. Hit both 20-milers in Weeks 10-11 (peak phase)
+4. Perfect execution of Sunday MP work (Weeks 9-13)
+5. Protect easy days - no pace creep on recovery runs

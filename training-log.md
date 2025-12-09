@@ -108,7 +108,7 @@ kept it minimal and took the rest week.
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | Rest or easy 4 | | |
+| Mon | Rest or easy 4 |16 miles at 7:20 | Swapped for long run.  Forgot to bring nutrition, knees and back hurt at mile 14, felt strong throughout |
 | Tue | **16 miles easy - LONG RUN** | | 1 PM start - first 16-miler |
 | Wed | 10 mi w/ 3x2mi @ 6:30 | | Quality intervals |
 | Thu | 6 miles easy | | Recovery critical |
@@ -127,9 +127,9 @@ kept it minimal and took the rest week.
 
 ---
 
-## Week 5 (Dec 16-22) - Strength Building
+## Week 5 (Dec 16-21) - PRE-TRAVEL WEEK
 
-**Total Mileage:** ___ miles (target: 62)
+**Total Mileage:** ___ miles (target: 52)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
@@ -137,154 +137,157 @@ kept it minimal and took the rest week.
 | Tue | **16 miles easy - LONG RUN** | | 1 PM start |
 | Wed | 10 mi w/ 6mi tempo @ 6:35-6:45 | | Key tempo workout |
 | Thu | 7 miles easy | | Recovery |
-| Fri | 7 miles easy | | |
+| Fri | 7 miles easy | | KEEP EASY - don't let pace creep! |
 | Sat | 6 miles easy | | 7:30 AM |
-| Sun | 13 mi w/ miles 4-11 @ MP (6:35-6:45) | | Race pace practice |
+| Sun (Dec 22) | Travel day | | Skip or short easy run if possible |
 
 **Week Notes:**
 - Weather:
-- Building back up after recovery week:
+- Complete Mon-Sat before travel on Sunday:
 - Tempo effort:
-- Marathon pace feeling:
-- Adjustments needed:
+- Fueling practice on Tuesday:
+- Ready for travel maintenance period:
 
 ---
 
-## Week 6 (Dec 23-29) - Strength Building
+## Week 6 (Dec 23-29) - TRAVEL MAINTENANCE WEEK
 
-**Total Mileage:** ___ miles (target: 66)
+**Total Mileage:** ___ miles (target: 25-30, minimum: 20)
+
+| Day | Planned | Actual | Notes |
+|-----|---------|--------|-------|
+| Mon | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
+| Tue | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
+| Wed | 40 min w/ 20 min quality (tempo/fartlek/hills) | | One quality session if possible |
+| Thu | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
+| Fri | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
+| Sat | Rest or easy 30-45 min | | |
+| Sun | Rest or easy 30-45 min | | |
+
+**Week Notes:**
+- Weather/travel location:
+- Total runs completed:
+- Total mileage achieved:
+- Quality session completed? (Y/N):
+- How you felt maintaining fitness during travel:
+- Adjustments for next travel week:
+
+---
+
+## Week 7 (Dec 30-Jan 5) - TRAVEL MAINTENANCE WEEK
+
+**Total Mileage:** ___ miles (target: 25-30, minimum: 20)
+
+| Day | Planned | Actual | Notes |
+|-----|---------|--------|-------|
+| Mon | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
+| Tue | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
+| Wed | 40 min w/ 20 min quality (tempo/fartlek/hills) | | One quality session if possible |
+| Thu | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
+| Fri | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
+| Sat | Rest or easy 30-45 min | | |
+| Sun (Jan 5) | Rest or easy 30-45 min | | Last travel day |
+
+**Week Notes:**
+- Weather/travel location:
+- Total runs completed:
+- Total mileage achieved:
+- Quality session completed? (Y/N):
+- How you felt during second travel week:
+- Ready to return to structured training:
+
+---
+
+## Week 8 (Jan 6-12) - REBUILD WEEK (Post-Travel)
+
+**Total Mileage:** ___ miles (target: 50-54)
+
+| Day | Planned | Actual | Notes |
+|-----|---------|--------|-------|
+| Mon (Jan 6) | Rest | | First day back from travel - full rest |
+| Tue | **12 miles easy @ 7:30-7:45 - LONG RUN** | | Start conservative, assess fitness |
+| Wed | 8 mi w/ 6x400m @ 5:45 | | Short speed to reactivate legs |
+| Thu | 6 miles easy | | Recovery |
+| Fri | 6 miles easy | | |
+| Sat | 6 miles easy | | 7:30 AM |
+| Sun | 10 miles easy | | Assess readiness for Week 9's 18-miler |
+
+**Week Notes:**
+- How do you feel after travel period?
+- Energy levels back to normal?
+- Did the travel maintenance work?
+- Ready for Week 9's 18-miler?
+
+---
+
+## Week 9 (Jan 13-19) - FIRST BIG LONG RUN POST-TRAVEL
+
+**Total Mileage:** ___ miles (target: 62-64)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
 | Mon | Rest or easy 4 | | |
-| Tue | **18 miles easy - LONG RUN** | | 1 PM start - ~2:15 duration |
-| Wed | 11 mi w/ 4x1600m @ 6:10 | | Mile repeats |
-| Thu | 7 miles easy | | Recovery critical |
-| Fri | 7 miles easy | | |
+| Tue | **18 miles easy @ 7:30-7:45 - LONG RUN** | | FIRST 18-MILER! Fuel at 60/90/120 min |
+| Wed | 10 mi w/ 6mi tempo @ 6:35-6:45 | | Key tempo workout |
+| Thu | 7 miles easy | | Recovery critical after 18-miler |
+| Fri | 7 miles easy | | KEEP EASY - no pace creep! |
 | Sat | 6 miles easy | | 7:30 AM |
-| Sun | 13 mi w/ middle 9 @ MP (6:35-6:45) | | |
+| Sun | **13 mi w/ miles 4-11 @ MP (6:35-6:45)** | | 8 miles at marathon pace - race simulation |
 
 **Week Notes:**
 - Weather:
-- First 18-miler - how did it go?
-- Fueling working?
-- Wednesday mile repeats:
+- First 18-miler - how did it feel after travel?
+- Fitness back to pre-travel level?
+- Wednesday tempo execution:
+- Sunday MP work - confidence building?
 - Adjustments needed:
 
 ---
 
-## Week 7 (Dec 30-Jan 5) - Strength Building
+## Week 10 (Jan 20-26) - FIRST 20-MILER
 
-**Total Mileage:** ___ miles (target: 68)
+**Total Mileage:** ___ miles (target: 66-68)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | Rest or easy 4 | | |
-| Tue | **20 miles easy - LONG RUN!** | | 1 PM - FIRST 20-MILER! ~2:30 |
-| Wed | 10 mi w/ 7mi @ MP (6:40-6:50) | | Reduced after 20-miler |
+| Mon | Rest or easy 5 | | |
+| Tue | **20 miles easy @ 7:30-7:45 - LONG RUN** | | FIRST 20-MILER! Fuel at 60/90/120 min, 1 PM start |
+| Wed | 10 mi w/ 7mi @ MP (6:40-6:50) | | Reduced volume after 20-miler |
 | Thu | 7 miles easy | | Recovery essential |
-| Fri | 7 miles easy | | |
+| Fri | 7 miles easy | | EASY PACE - critical for Sunday |
 | Sat | 6 miles easy | | 7:30 AM |
-| Sun | 13 mi w/ last 8 @ goal MP (6:30-6:40) | | |
+| Sun | **13 mi w/ last 8 @ goal MP (6:30-6:40)** | | Race pace confidence building |
 
 **Week Notes:**
 - Weather:
 - **FIRST 20-MILER - how did it feel?**
-- Mental confidence after completing 20:
-- Recovery Tuesday → Wednesday:
+- Mental/physical confidence after 20:
 - Fueling execution:
+- Recovery Tuesday → Wednesday:
 - Adjustments needed:
 
 ---
 
-## Week 8 (Jan 6-12) - RECOVERY WEEK
+## Week 11 (Jan 27-Feb 2) - PEAK WEEK (Second 20-Miler)
 
-**Total Mileage:** ___ miles (target: 54)
-
-| Day | Planned | Actual | Notes |
-|-----|---------|--------|-------|
-| Mon | Rest | | Full rest |
-| Tue | **14 miles easy - LONG RUN** | | Recovery week |
-| Wed | 8 mi w/ 8x400m @ 5:40 | | Short speed |
-| Thu | 6 miles easy | | |
-| Fri | 6 miles easy | | |
-| Sat | 6 miles easy | | 7:30 AM |
-| Sun | 12 miles easy | | Easy effort |
-
-**Week Notes:**
-- How do you feel after first 20-miler?
-- Energy levels restored?
-- Ready for peak phase?
-- Adjustments needed:
-
----
-
-## Week 9 (Jan 13-19) - Peak Training
-
-**Total Mileage:** ___ miles (target: 68)
+**Total Mileage:** ___ miles (target: 68-70)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
 | Mon | Rest or easy 5 | | |
-| Tue | **20 miles easy - LONG RUN** | | 1 PM start |
+| Tue | **20 miles easy @ 7:30-7:45 - LONG RUN** | | SECOND 20-MILER! Fuel at 60/90/120 min |
 | Wed | 11 mi w/ 10K @ goal MP (6:30-6:40) | | Race pace work |
-| Thu | 7 miles easy | | Recovery |
+| Thu | 7 miles easy | | Recovery critical |
 | Fri | 7 miles easy | | |
 | Sat | 6 miles easy | | 7:30 AM |
-| Sun | 13 mi w/ miles 3-12 @ MP (6:35-6:45) | | 10 miles at marathon pace! |
+| Sun | **13 mi w/ 10mi @ MP effort (6:35-6:45)** | | Biggest MP day - 10 miles! |
 
 **Week Notes:**
 - Weather:
 - Second 20-miler easier than first?
+- Peak week complete - how do you feel?
 - Wednesday 10K at goal pace:
-- Sunday 10 miles MP - confidence building?
-- Adjustments needed:
-
----
-
-## Week 10 (Jan 20-26) - PEAK WEEK
-
-**Total Mileage:** ___ miles (target: 72)
-
-| Day | Planned | Actual | Notes |
-|-----|---------|--------|-------|
-| Mon | Rest or easy 5 | | |
-| Tue | **22 miles easy - LONGEST RUN!** | | 1 PM - ~2:45 duration |
-| Wed | 10 mi w/ 2x3mi @ 6:25 | | Reduced after 22-miler |
-| Thu | 7 miles easy | | Recovery essential |
-| Fri | 7 miles easy | | |
-| Sat | 6 miles easy | | 7:30 AM |
-| Sun | 13 mi w/ 10mi @ MP effort (6:35-6:45) | | |
-
-**Week Notes:**
-- Weather:
-- **22-MILER - LONGEST RUN COMPLETE!**
-- Mental/physical confidence:
-- Fueling execution:
-- Recovery management:
-- Adjustments needed:
-
----
-
-## Week 11 (Jan 27-Feb 2) - Peak Training
-
-**Total Mileage:** ___ miles (target: 70)
-
-| Day | Planned | Actual | Notes |
-|-----|---------|--------|-------|
-| Mon | Rest or easy 5 | | |
-| Tue | **20 miles easy - LONG RUN** | | 1 PM start |
-| Wed | 11 mi w/ 10mi @ MP (6:35-6:45) | | Big marathon pace day |
-| Thu | 8 miles easy | | Recovery |
-| Fri | 7 miles easy | | |
-| Sat | 6 miles easy | | 7:30 AM |
-| Sun | 13 mi progressive (7:15→6:30) | | Strong finish |
-
-**Week Notes:**
-- Weather:
-- Third 20-miler feeling routine now?
-- 10 miles at MP on Wednesday:
-- Progressive run execution:
+- Sunday 10 miles MP - confidence?
 - Adjustments needed:
 
 ---
@@ -311,25 +314,26 @@ kept it minimal and took the rest week.
 
 ---
 
-## Week 13 (Feb 10-16) - Race Prep
+## Week 13 (Feb 10-16) - THIRD BIG LONG RUN
 
-**Total Mileage:** ___ miles (target: 66)
+**Total Mileage:** ___ miles (target: 64-66)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
 | Mon | Rest or easy 4 | | |
-| Tue | **18 miles easy - LONG RUN** | | 1 PM - final long long run |
-| Wed | 11 mi w/ 2x4mi @ goal MP (6:30-6:40) | | Race pace confidence |
+| Tue | **20 miles easy @ 7:30-7:45 - LONG RUN** | | THIRD BIG RUN (or 18 if need less volume) |
+| Wed | 11 mi w/ 2x4mi @ goal MP (6:30-6:40) | | Race pace confidence, 1 mile jog between |
 | Thu | 7 miles easy | | Recovery |
 | Fri | 7 miles easy | | |
 | Sat | 6 miles easy | | 7:30 AM |
-| Sun | 13 mi w/ middle 9 @ MP (6:35-6:45) | | Final quality long run |
+| Sun | **13 mi w/ middle 9 @ MP (6:35-6:45)** | | Final quality long run before taper |
 
 **Week Notes:**
 - Weather:
-- Final 18-miler - feeling ready?
+- Third big long run - feeling ready for race?
 - Race pace feeling comfortable?
-- Mental preparation:
+- Mental preparation - confidence building?
+- Fueling execution locked in?
 - Adjustments needed:
 
 ---

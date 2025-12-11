@@ -109,8 +109,8 @@ kept it minimal and took the rest week.
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
 | Mon | Rest or easy 4 |16 miles at 7:20 | Swapped for long run.  Forgot to bring nutrition, knees and back hurt at mile 14, felt strong throughout |
-| Tue | **16 miles easy - LONG RUN** | | 1 PM start - first 16-miler |
-| Wed | 10 mi w/ 3x2mi @ 6:30 | | Quality intervals |
+| Tue | **16 miles easy - LONG RUN** | 0, full rest day | After back and knee pain from yesterday I took the day to rest, eat, and stretch |
+| Wed | 10 mi w/ 3x2mi @ 6:30 |11 miles with 3x2mi @ 6:16 | Felt good after the warm up, went for it a little faster and was able to maintain it |
 | Thu | 6 miles easy | | Recovery critical |
 | Fri | 6 miles easy | | |
 | Sat | 6 miles easy | | 7:30 AM |

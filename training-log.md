@@ -104,24 +104,24 @@ kept it minimal and took the rest week.
 
 ## Week 4 (Dec 9-15) - Base Building
 
-**Total Mileage:** ___ miles (target: 60)
+**Total Mileage:** 55 miles (target: 60)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
 | Mon | Rest or easy 4 |16 miles at 7:20 | Swapped for long run.  Forgot to bring nutrition, knees and back hurt at mile 14, felt strong throughout |
 | Tue | **16 miles easy - LONG RUN** | 0, full rest day | After back and knee pain from yesterday I took the day to rest, eat, and stretch |
 | Wed | 10 mi w/ 3x2mi @ 6:30 |11 miles with 3x2mi @ 6:16 | Felt good after the warm up, went for it a little faster and was able to maintain it |
-| Thu | 6 miles easy | | Recovery critical |
-| Fri | 6 miles easy | | |
-| Sat | 6 miles easy | | 7:30 AM |
-| Sun | 13 mi w/ miles 4-11 @ MP (6:40-6:50) | | Race simulation |
+| Thu | 6 miles easy |6 miles at 7:45 with core workout | Recovery critical |
+| Fri | 6 miles easy |6 miles at 7:30 |6 miles easy at 7:30, treadmill |
+| Sat | 6 miles easy |4 miles easy at 7:30, treadmill | 7:30 AM |
+| Sun | 13 mi w/ miles 4-11 @ MP (6:40-6:50) |3 miles easy, then 4 x 2 mile at 6:40, treadmill | Too snowy to run outside safely, had to adapt for treadmill workout |
 
 **Week Notes:**
-- Weather:
-- 16-miler - how did it feel?
-- Fueling strategy working?
-- Wednesday intervals after 16-miler:
-- Adjustments needed:
+- Weather: Adjusted to the cold, but the snow on Sunday was enough to make roads slippery
+- 16-miler - how did it feel? Felt strong but a little broken down at the end of the run.  Worried that I wouldnot recover over the week, but finished the week feeling a lot stronger than the start of the week.
+- Fueling strategy working? Great, missed nutrition one day but otherwise stable and focusing on off the run nutrition.
+- Wednesday intervals after 16-miler: Felt like 6:30 was too slow, so moved it up to 6:16 without too much trouble.
+- Adjustments needed: Overally still conscerned that all of the pacing is too slow, but I am going to give it another week before making any adjustments.
 
 ---
 
@@ -129,46 +129,46 @@ kept it minimal and took the rest week.
 
 ## Week 5 (Dec 16-21) - PRE-TRAVEL WEEK
 
-**Total Mileage:** ___ miles (target: 52)
+**Total Mileage:** 55 miles (target: 52)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | Rest or easy 4 | | |
-| Tue | **16 miles easy - LONG RUN** | | 1 PM start |
-| Wed | 10 mi w/ 6mi tempo @ 6:35-6:45 | | Key tempo workout |
-| Thu | 7 miles easy | | Recovery |
-| Fri | 7 miles easy | | KEEP EASY - don't let pace creep! |
-| Sat | 6 miles easy | | 7:30 AM |
+| Mon | **16 miles easy - LONG RUN** |19 miles at 7:30 | Icy conditions on the sidewalks, felt strong throughout, fading a bit at the end |
+| Tue | Rest or easy 4 |6.5 miles at 7:01 pace, 3.5 tempo at 6:19 pace | Ran faster than desired because that is what others were doing |
+| Wed | 10 mi w/ 6mi tempo @ 6:35-6:45 | 11.2 at 6:53, with 6 tempo at 6:32 | Key tempo workout |
+| Thu | 7 miles easy |5.75 miles at 7:02 with Oscar | Pace felt easy, ran on feel |
+| Fri | 7 miles easy |6 miles easy, 7:25 pace | KEEP EASY - don't let pace creep! |
+| Sat | 6 miles easy |6.6 miles easy, 7:20 pace | 7:30 AM |
 | Sun (Dec 22) | Travel day | | Skip or short easy run if possible |
 
 **Week Notes:**
-- Weather:
-- Complete Mon-Sat before travel on Sunday:
-- Tempo effort:
-- Fueling practice on Tuesday:
+- Weather: Cold, but manageable
+- Complete Mon-Sat before travel on Sunday: 19 mile long run felt surprisingly good
+- Tempo effort: Felt manageable, ran a little faster than range
+- Fueling practice on Tuesday: Good
 - Ready for travel maintenance period:
 
 ---
 
 ## Week 6 (Dec 23-29) - TRAVEL MAINTENANCE WEEK
 
-**Total Mileage:** ___ miles (target: 25-30, minimum: 20)
+**Total Mileage:** 14 miles (target: 25-30, minimum: 20)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
-| Tue | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
-| Wed | 40 min w/ 20 min quality (tempo/fartlek/hills) | | One quality session if possible |
-| Thu | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
-| Fri | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
-| Sat | Rest or easy 30-45 min | | |
-| Sun | Rest or easy 30-45 min | | |
+| Mon | 45-60 min easy @ 7:30-8:00 | Skipped | Hotel/travel run |
+| Tue | 45-60 min easy @ 7:30-8:00 |6.6 miles easy, 7:16 | Hotel/travel run |
+| Wed | 40 min w/ 20 min quality (tempo/fartlek/hills) |7.2 miles, 4 miles at 6:27 | One quality session if possible |
+| Thu | 45-60 min easy @ 7:30-8:00 |skipped | Hotel/travel run |
+| Fri | 45-60 min easy @ 7:30-8:00 |skipped | Hotel/travel run |
+| Sat | Rest or easy 30-45 min |skipped | |
+| Sun | Rest or easy 30-45 min |skipped | |
 
 **Week Notes:**
 - Weather/travel location:
 - Total runs completed:
 - Total mileage achieved:
-- Quality session completed? (Y/N):
+- Quality session completed? (Y/N): Yes, good quality
 - How you felt maintaining fitness during travel:
 - Adjustments for next travel week:
 
@@ -176,47 +176,48 @@ kept it minimal and took the rest week.
 
 ## Week 7 (Dec 30-Jan 5) - TRAVEL MAINTENANCE WEEK
 
-**Total Mileage:** ___ miles (target: 25-30, minimum: 20)
+**Total Mileage:** 13 miles (target: 25-30, minimum: 20)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
-| Tue | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
-| Wed | 40 min w/ 20 min quality (tempo/fartlek/hills) | | One quality session if possible |
-| Thu | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
-| Fri | 45-60 min easy @ 7:30-8:00 | | Hotel/travel run |
-| Sat | Rest or easy 30-45 min | | |
-| Sun (Jan 5) | Rest or easy 30-45 min | | Last travel day |
+| Mon | 45-60 min easy @ 7:30-8:00 |skipped | Hotel/travel run |
+| Tue | 45-60 min easy @ 7:30-8:00 |skipped | Hotel/travel run |
+| Wed | 40 min w/ 20 min quality (tempo/fartlek/hills) |skipped | One quality session if possible |
+| Thu | 45-60 min easy @ 7:30-8:00 |skipped | Hotel/travel run |
+| Fri | 45-60 min easy @ 7:30-8:00 |7.4 miles, 60 minues, high effort with elevation gain of over 1000 ft | Hotel/travel run |
+| Sat | Rest or easy 30-45 min |6 miles, similarly high effort with over 1000 ft of elevation gain | |
+| Sun (Jan 5) | Rest or easy 30-45 min |skipped | Last travel day |
 
 **Week Notes:**
-- Weather/travel location:
-- Total runs completed:
+- Weather/travel location: nice weather
+- Total runs completed: 2
 - Total mileage achieved:
-- Quality session completed? (Y/N):
+- Quality session completed? (Y/N): Yes, though not normal tempo workout, more high intensity through running up hill
 - How you felt during second travel week:
-- Ready to return to structured training:
+- Ready to return to structured training: Yes, looking forward to it - did not get to run as much as I wanted to, but I was prioritizing family time which was the right call.  I felt good about getting some hard trail runs in - that both provided a good training stimulus through the climbing and technical work and was some smazing running.
 
 ---
 
 ## Week 8 (Jan 6-12) - REBUILD WEEK (Post-Travel)
 
-**Total Mileage:** ___ miles (target: 50-54)
+**Total Mileage:** 53 miles (target: 50-54)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon (Jan 6) | Rest | | First day back from travel - full rest |
-| Tue | **12 miles easy @ 7:30-7:45 - LONG RUN** | | Start conservative, assess fitness |
-| Wed | 8 mi w/ 6x400m @ 5:45 | | Short speed to reactivate legs |
-| Thu | 6 miles easy | | Recovery |
-| Fri | 6 miles easy | | |
-| Sat | 6 miles easy | | 7:30 AM |
-| Sun | 10 miles easy | | Assess readiness for Week 9's 18-miler |
+| Mon (Jan 6) | Rest |9.5 miles, with 7 miles at 6:45 | First day back from travel - full rest |
+| Tue | **12 miles easy @ 7:30-7:45 - LONG RUN** |rest | Start conservative, assess fitness |
+| Wed | 8 mi w/ 6x400m @ 5:45 |9.3 miles at 7:00 pace | Short speed to reactivate legs |
+| Thu | 6 miles easy 16 miles at 7:14|15.6 miles, 7:14 pace | Good long run, back at it |
+| Fri | 6 miles easy |6.5 at 7:05 pace | Some miles at under 7 minutes a mile |
+| Sat | 6 miles easy |0 | Rest day |
+| Sun | 10 miles easy |12.3 miles at 8:00 pace | Assess readiness for Week 9's 18-miler |
 
 **Week Notes:**
-- How do you feel after travel period?
-- Energy levels back to normal?
-- Did the travel maintenance work?
-- Ready for Week 9's 18-miler?
+- How do you feel after travel period? Good, rested - my long distance fitness feels good, maybe lost a little on tmy tempo but not too much
+- Energy levels back to normal? Yes
+- Did the travel maintenance work? Did not do as much running as I intended, though I felt good about the running I was able to get done
+- Ready for Week 9's 18-miler? Yes, I feel confident about it
+- Also, I picked up a continuous glucose monitor, and have started to interpret the results.  On my latest long run, I started eating chews at 1hr, and again at 75 minutes.  The data shows that I had a pretty constant blood glucose level up until 1:45 minute mark, where it started to crash.  I think that suggests I should have continued to eat after 1 hr, and potentially more, to maintain my blood glucose.
 
 ---
 
@@ -226,8 +227,8 @@ kept it minimal and took the rest week.
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | Rest or easy 4 | | |
-| Tue | **18 miles easy @ 7:30-7:45 - LONG RUN** | | FIRST 18-MILER! Fuel at 60/90/120 min |
+| Mon | Rest or easy 4 |18.7 miles at consistent 7:21 pace | felt pretty manageable, fueling 25g of sugar (marten) at 45 min and then ever 30 minutes, blood sugar levels were good though baseline was low |
+| Tue | **18 miles easy @ 7:30-7:45 - LONG RUN** |7.3 miles easy, 7:15 pace | Did a recovery run after the 18 miler from yesterday |
 | Wed | 10 mi w/ 6mi tempo @ 6:35-6:45 | | Key tempo workout |
 | Thu | 7 miles easy | | Recovery critical after 18-miler |
 | Fri | 7 miles easy | | KEEP EASY - no pace creep! |
@@ -235,9 +236,9 @@ kept it minimal and took the rest week.
 | Sun | **13 mi w/ miles 4-11 @ MP (6:35-6:45)** | | 8 miles at marathon pace - race simulation |
 
 **Week Notes:**
-- Weather:
-- First 18-miler - how did it feel after travel?
-- Fitness back to pre-travel level?
+- Weather: 
+- First 18-miler - how did it feel after travel? Good, maintained 7:21 mile, felt easy
+- Fitness back to pre-travel level? 
 - Wednesday tempo execution:
 - Sunday MP work - confidence building?
 - Adjustments needed:

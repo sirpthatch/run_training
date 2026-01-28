@@ -223,25 +223,25 @@ kept it minimal and took the rest week.
 
 ## Week 9 (Jan 13-19) - FIRST BIG LONG RUN POST-TRAVEL
 
-**Total Mileage:** ___ miles (target: 62-64)
+**Total Mileage:** 60 miles (target: 62-64)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
 | Mon | Rest or easy 4 |18.7 miles at consistent 7:21 pace | felt pretty manageable, fueling 25g of sugar (marten) at 45 min and then ever 30 minutes, blood sugar levels were good though baseline was low |
 | Tue | **18 miles easy @ 7:30-7:45 - LONG RUN** |7.3 miles easy, 7:15 pace | Did a recovery run after the 18 miler from yesterday |
-| Wed | 10 mi w/ 6mi tempo @ 6:35-6:45 | | Key tempo workout |
-| Thu | 7 miles easy | | Recovery critical after 18-miler |
-| Fri | 7 miles easy | | KEEP EASY - no pace creep! |
-| Sat | 6 miles easy | | 7:30 AM |
+| Wed | 10 mi w/ 6mi tempo @ 6:35-6:45 |11 miles with 6 miles at 6:31 | Felt hard but I could keep going |
+| Thu | 7 miles easy |5 miles at 7:17 | Felt nice, good recovery |
+| Fri | 7 miles easy |12 miles with 7 miles at 6:29 | Added another tempo workout, felt manageable, hard |
+| Sat | 6 miles easy |8 miles at 7:08 | 7:30 AM |
 | Sun | **13 mi w/ miles 4-11 @ MP (6:35-6:45)** | | 8 miles at marathon pace - race simulation |
 
 **Week Notes:**
-- Weather: 
+- Weather: Weather overall was good - things got harder as it got colder, and snow on weekend made running hard
 - First 18-miler - how did it feel after travel? Good, maintained 7:21 mile, felt easy
-- Fitness back to pre-travel level? 
-- Wednesday tempo execution:
-- Sunday MP work - confidence building?
-- Adjustments needed:
+- Fitness back to pre-travel level? I think so, maybe a little slow on my tempos but not bad
+- Wednesday tempo execution: Wednesday was hard, but I added another tempo on Friday of  7 miles at 6:29 that felft easier and faster
+- Sunday MP work - confidence building? Move to Friday, but yea, lots of confidence building
+- Adjustments needed: nothing
 
 ---
 
@@ -251,20 +251,20 @@ kept it minimal and took the rest week.
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | Rest or easy 5 | | |
-| Tue | **20 miles easy @ 7:30-7:45 - LONG RUN** | | FIRST 20-MILER! Fuel at 60/90/120 min, 1 PM start |
-| Wed | 10 mi w/ 7mi @ MP (6:40-6:50) | | Reduced volume after 20-miler |
-| Thu | 7 miles easy | | Recovery essential |
-| Fri | 7 miles easy | | EASY PACE - critical for Sunday |
+| Mon | Rest or easy 5 | 0 | Travel day, did not have opportunity to run |
+| Tue | **20 miles easy @ 7:30-7:45 - LONG RUN** |19 miles at 7:28, felt super relaxed/easy, fueling was suboptimal (25mg at 60 min) because it was so cold (single digits with wind chill) | FIRST 20-MILER! Fuel at 60/90/120 min, 1 PM start |
+| Wed | 10 mi w/ 7mi @ MP (6:40-6:50) |10.5 miles with 8mi @ 6:27 | Reduced volume after 20-miler |
+| Thu | 7 miles easy |9.9 miles at 7:30, easy fluid miles | Recovery essential |
+| Fri | 7 miles easy |13.4 miles at 7:09, felt easy, 60mg/hr of sugar felt a litle queasy | EASY PACE - critical for Sunday |
 | Sat | 6 miles easy | | 7:30 AM |
 | Sun | **13 mi w/ last 8 @ goal MP (6:30-6:40)** | | Race pace confidence building |
 
 **Week Notes:**
-- Weather:
-- **FIRST 20-MILER - how did it feel?**
-- Mental/physical confidence after 20:
-- Fueling execution:
-- Recovery Tuesday → Wednesday:
+- Weather: Very cold, below freezing - makes it hard to eat, otherwise fine
+- **FIRST 20-MILER - how did it feel?** Felt really easy, flowy, could keep going if had more nutrition 
+- Mental/physical confidence after 20: Felt good
+- Fueling execution: Cold weather makes it hard, but trying.  60mg/hr of sugar felt a little too much.
+- Recovery Tuesday → Wednesday: Wednesday morning felt a little sore, but with some walking legs felt good - tempo work felt great
 - Adjustments needed:
 
 ---
@@ -275,9 +275,9 @@ kept it minimal and took the rest week.
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | Rest or easy 5 | | |
-| Tue | **20 miles easy @ 7:30-7:45 - LONG RUN** | | SECOND 20-MILER! Fuel at 60/90/120 min |
-| Wed | 11 mi w/ 10K @ goal MP (6:30-6:40) | | Race pace work |
+| Mon | Rest or easy 5 |8 on treadmill at 7:20 | |
+| Tue | **20 miles easy @ 7:30-7:45 - LONG RUN** |20.1 miles at 7:38, felt easy, good nutrition | SECOND 20-MILER! Fuel at 60/90/120 min |
+| Wed | 11 mi w/ 10K @ goal MP (6:30-6:40) |11 at 7:08, 10k at 6:34 - messy footing and trail shoes probably slowedthings down, felt heavy and hard | Race pace work |
 | Thu | 7 miles easy | | Recovery critical |
 | Fri | 7 miles easy | | |
 | Sat | 6 miles easy | | 7:30 AM |

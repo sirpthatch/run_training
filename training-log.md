@@ -278,40 +278,40 @@ kept it minimal and took the rest week.
 | Mon | Rest or easy 5 |8 on treadmill at 7:20 | |
 | Tue | **20 miles easy @ 7:30-7:45 - LONG RUN** |20.1 miles at 7:38, felt easy, good nutrition | SECOND 20-MILER! Fuel at 60/90/120 min |
 | Wed | 11 mi w/ 10K @ goal MP (6:30-6:40) |11 at 7:08, 10k at 6:34 - messy footing and trail shoes probably slowedthings down, felt heavy and hard | Race pace work |
-| Thu | 7 miles easy | | Recovery critical |
-| Fri | 7 miles easy | | |
-| Sat | 6 miles easy | | 7:30 AM |
-| Sun | **13 mi w/ 10mi @ MP effort (6:35-6:45)** | | Biggest MP day - 10 miles! |
+| Thu | 7 miles easy |4 miles easy on the treadmill | Recovery critical |
+| Fri | 7 miles easy |11 miles, with 9.3 miles at 6:27 pace on treadmill | |
+| Sat | 6 miles easy | Nothing - traveling | 7:30 AM |
+| Sun | **13 mi w/ 10mi @ MP effort (6:35-6:45)** | Nothing - moved workout to Friday | Biggest MP day - 10 miles! |
 
 **Week Notes:**
-- Weather:
-- Second 20-miler easier than first?
-- Peak week complete - how do you feel?
-- Wednesday 10K at goal pace:
-- Sunday 10 miles MP - confidence?
+- Weather: Very cold, hard to get out
+- Second 20-miler easier than first? Yes, miles are coming easy
+- Peak week complete - how do you feel? Felt great, not tired 
+- Wednesday 10K at goal pace: THat was a little hard because of the footing and coming off the 20 miler
+- Sunday 10 miles MP - confidence? Great confidence - did it on the treadmill, which is suboptimal, but felt easy after having the rest day
 - Adjustments needed:
 
 ---
 
 ## Week 12 (Feb 3-9) - RECOVERY WEEK
 
-**Total Mileage:** ___ miles (target: 56)
+**Total Mileage:** 51 miles (target: 56)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | Rest | | Full rest |
-| Tue | **14 miles easy - LONG RUN** | | Recovery week |
-| Wed | 10 mi w/ 6mi tempo @ 6:30-6:40 | | Tempo |
-| Thu | 7 miles easy | | |
-| Fri | 7 miles easy | | |
-| Sat | 6 miles easy | | 7:30 AM |
-| Sun | 11 miles easy | | Easy effort |
+| Mon | Rest |14 miles at 7:15, took it easy, felt fresh | Full rest |
+| Tue | **14 miles easy - LONG RUN** |7 miles easy, 7:15 pace | Recovery week |
+| Wed | 10 mi w/ 6mi tempo @ 6:30-6:40 |13 with 7 miles at 6:27, felt good/hard but manageable | Tempo |
+| Thu | 7 miles easy |4.9 miles easy, 7:18 | |
+| Fri | 7 miles easy |0 miles - cross training ski day | |
+| Sat | 6 miles easy |0 miles - family time | 7:30 AM |
+| Sun | 11 miles easy |12 miles easy, 7:18 pace | Easy effort |
 
 **Week Notes:**
-- Final recovery week before race prep:
-- Feeling strong and healthy?
-- Any lingering issues?
-- Ready for final push?
+- Final recovery week before race prep: good
+- Feeling strong and healthy? Very
+- Any lingering issues? None
+- Ready for final push? Yes
 
 ---
 
@@ -321,13 +321,13 @@ kept it minimal and took the rest week.
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | Rest or easy 4 | | |
+| Mon | Rest or easy 4 | 20 miles at 6:59, 5 miles at 6:22, felt hard but manageable, picked up the pace at the end again to keep it interesting | |
 | Tue | **20 miles easy @ 7:30-7:45 - LONG RUN** | | THIRD BIG RUN (or 18 if need less volume) |
-| Wed | 11 mi w/ 2x4mi @ goal MP (6:30-6:40) | | Race pace confidence, 1 mile jog between |
-| Thu | 7 miles easy | | Recovery |
-| Fri | 7 miles easy | | |
-| Sat | 6 miles easy | | 7:30 AM |
-| Sun | **13 mi w/ middle 9 @ MP (6:35-6:45)** | | Final quality long run before taper |
+| Wed | 11 mi w/ 2x4mi @ goal MP (6:30-6:40) |12 miles, 4 @ 6:16 and 4 @ 6:22 | Race pace confidence, 1 mile jog between |
+| Thu | 7 miles easy |6.5 miles moderate, at 7:02 | Recovery |
+| Fri | 7 miles easy |0 - rest, a little sick | |
+| Sat | 6 miles easy |0 - ski day with kids | 7:30 AM |
+| Sun | **13 mi w/ middle 9 @ MP (6:35-6:45)** |0 - tubing day with kids | Final quality long run before taper |
 
 **Week Notes:**
 - Weather:
@@ -341,46 +341,73 @@ kept it minimal and took the rest week.
 
 ## Week 14 (Feb 17-23) - Begin Taper
 
-**Total Mileage:** ___ miles (target: 58)
+**Total Mileage:** ___ miles (target: ~55)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | Rest or easy 4 | | |
-| Tue | **14 miles easy - LONG RUN** | | Final Tuesday long run |
-| Wed | 10 mi w/ 6mi @ MP (6:35-6:45) | | Final quality workout |
-| Thu | 7 miles easy | | |
-| Fri | 6 miles easy | | |
-| Sat | 6 miles easy | | 7:30 AM |
-| Sun | 11 mi w/ last 6 @ MP effort (6:35-6:45) | | Taper begins |
+| Mon | Rest | 0 - rest | Recovering from illness |
+| Tue | **4x1mi intervals w/ 0.5mi recovery** | 10 miles at 6:51 overall, 4x1mi at 6:09, 6:09, 6:22, 6:22, recoveries at 7:00 | Felt rusty early, warmed up well, hilly conditions |
+| Wed | **14 miles easy @ 7:20-7:40** |14 miles at 7:27, legs felt like lead | Easy long run - NO quality work |
+| Thu | 6-7 miles easy @ 7:30+ |6.6 at 7:11, felt very easy, some heal pain early on | Recovery - keep it truly easy |
+| Fri | 5-6 miles easy @ 7:30+ |0 - sickness prevention | Easy - no pace creep |
+| Sat | 4-5 miles easy @ 7:30+ |6.0 at 7:15, felt super easy | 7:30 AM - short and easy |
+| Sun | **8-9 miles easy + 6-8 x 100m strides** |9 miles easy, with some pickups/strides | Neuromuscular activation only - NO tempo, strides at 90% with full recovery |
 
 **Week Notes:**
 - Weather:
-- Legs feeling fresh?
-- Taper beginning:
+- Illness recovery complete? Feeling much better after 3 days off Fri-Sun
+- Legs feeling fresh after taper?
+- Tuesday intervals confirmed fitness: 6:09 mile repeats on hills = sub-2:50 ready
+- No quality work Wed-Sun (intervals on Tuesday = quality session for the week)
 - Mental readiness:
-- Race week prep:
+- Race week prep (gear, carb-loading plan, pace band printed?):
 
 ---
 
 ## Week 15 (Feb 24-Mar 1) - TAPER & RACE WEEK
 
-**Total Mileage:** ___ miles + race (target: 30 + 26.2)
+**Total Mileage:** ___ miles + race (target: ~20 + 26.2)
 
 | Day | Planned | Actual | Notes |
 |-----|---------|--------|-------|
-| Mon | Rest or easy 3 | | Taper mode |
-| Tue | 6 mi easy w/ 4x100m strides | | Stay sharp |
-| Wed | 5 miles easy | | Short and easy |
-| Thu | 4 mi easy w/ 6x100m strides | | Final tune-up |
-| Fri | Rest or 3 miles easy | | Rest preferred |
-| Sat | 3 mi easy + 4x100m strides | | Loosen up, 7:30 AM |
-| Sun | **RACE DAY - 26.2 miles!** | | NAPA VALLEY MARATHON |
+| Mon (Feb 24) | 5-6 miles easy @ 7:30+ |5.5 miles at 7:20 | Taper mode - keep easy |
+| Tue (Feb 25) | 5-6 miles easy w/ 6x100m strides |0 - full recovery, felt sick | Stay sharp - strides at 90%, full recovery |
+| Wed (Feb 26) | 4-5 miles easy |5 miles, 7:27, 3x100m strides | Short and easy - **BEGIN CARB LOADING** |
+| Thu (Feb 27) | 3-4 miles easy w/ 6x100m strides | | Final tune-up - last strides before race |
+| Fri (Feb 28) | Rest or 2-3 miles easy | | Rest preferred - **FULL CARB LOAD DAY (10-12g/kg)** |
+| Sat (Feb 29) | 2-3 miles easy + 4x100m strides | | Loosen up, 7:30 AM - **CARB LOAD DAY (8-10g/kg)** |
+| Sun (Mar 1) | **RACE DAY - 26.2 miles @ 6:29 avg** | | **NAPA VALLEY MARATHON - TARGET SUB-2:50** |
+
+**Carb Loading Notes:**
+- Wed (Feb 26): Normal intake, begin increasing carbs
+- Thu (Feb 27): Moderate carb increase (~7-8g/kg)
+- Fri (Feb 28): FULL LOAD - 10-12g/kg (~750-900g carbs) - see race-week-carb-loading-plan.md
+- Sat (Feb 29): LOAD - 8-10g/kg (~600-750g carbs) - eat dinner by 5-6 PM
+- Sun race morning: Pre-race meal 3-4 hrs before start (see plan)
+
+**Race Morning Protocol (March 1):**
+- Wake up: 3:30-4:00 AM
+- Pre-race meal (3:30-4:30 AM): Bagel + jam + banana + sports drink (~155g carbs)
+- Sip sports drink 5:30-6:30 AM
+- Optional gel at 6:45 AM
+- Race start: ~7:30 AM
+
+**Target Splits:**
+- Mile 1-3: 6:35-6:38 (controlled start)
+- Mile 4-20: 6:28-6:30 (goal pace)
+- Mile 21-26.2: 6:30-6:35 (hold the line)
+- Half split target: 1:24:35-1:24:45
+- 20-mile split target: 2:09:45-2:10:15
+- **Finish target: 2:49:30-2:50:35**
+
+**See pace band CSV:** napa-valley-marathon-pace-band.csv
 
 **Week Notes:**
-- Sleep quality:
-- Carb loading (3 days before):
+- Sleep quality (aim for 8+ hrs nightly):
+- Carb loading execution (see race-week-carb-loading-plan.md):
 - Race morning breakfast:
-- Pre-race jitters:
+- Legs feeling fresh and snappy?
+- Pre-race jitters (normal and good!):
 - RACE DAY NOTES BELOW ↓
 
 ---
@@ -431,15 +458,402 @@ kept it minimal and took the rest week.
 
 ### Post-Race
 
-**Official Time:** _______
+**Official Time:** 2:53:40 (6:35/mile average)
 **Overall Place:** ___
 **Age Group Place:** ___
 **Gender Place:** ___
 
 **Goal Achievement:**
+- [ ] Sub-2:50 (PRIMARY GOAL) - MISSED by 3:40
+- [X] Sub-2:55 (A GOAL) - ACHIEVED! (PR)
+- [X] Sub-2:58 (SECONDARY GOAL) - ACHIEVED!
+
+**What Went Well:**
+- First 15 miles felt strong and controlled (6:25 pace or faster)
+- PR by significant margin - big accomplishment
+- Finished despite being sick (congestion, cough, snot throughout race)
+- Mental toughness to finish when hitting the wall at mile 20-21
+
+**What Could Improve:**
+- **PACING DISCIPLINE** - Went out 5-8 sec/mile too fast (6:25 vs planned 6:27-6:30)
+- **FUELING EXECUTION** - Nausea at mile 13 caused spacing out gels, missed 2 gels total
+- **GEL CHOICE** - Skratch chews became hard to consume; switch to Maurten Gel 100 next time
+- **RACE DAY HEALTH** - Racing with lingering illness (1-2/10) cost ~1-2 minutes
+
+**Race Execution:**
+- **Pacing strategy:** Went out too fast (6:25 for miles 1-15 vs plan of 6:27-6:30). Felt "easy" but was accumulating debt. Hit wall at mile 20 after uphill, slowed to 7:00/mile for miles 21-26.2
+- **Fueling execution:** Started at 45 min, tried every 30 min. NAUSEA at mile 13 (caused by too-fast pace + chews). Spaced out gels after that, missed 2 total = ~50g carbs deficit. Big contributor to mile 20 collapse.
+- **Mental game:** Strong through mile 15, struggled miles 16-20, survival mode 21-26. Need better strategies for when it gets hard.
+- **Physical feeling:** Felt easy miles 1-15 (red flag in retrospect). Nausea mile 13. Glycogen depletion/wall at mile 20-21. Heavy legs, unable to maintain pace final 10K.
+- **Weather:** Humid, 3-4 mph headwind much of race - increased effort/sweat rate
+- **Illness impact:** Lingering congestion (1-2/10), coughing, blowing nose throughout. Definitely affected performance.
+
+**Lessons Learned:**
+1. **"Easy" feeling early = THE TRAP.** When 6:25 feels easy in miles 1-15, it's adrenaline masking true effort. Don't trust it. Stick to the plan.
+2. **Too-fast pace → nausea → fueling breakdown → wall.** The cascade: Running 6:25 diverted blood from GI tract → couldn't digest gels → glycogen depletion → mile 20 collapse.
+3. **Chews are harder to digest than liquid gels at race intensity.** Switch to Maurten Gel 100 for Newport.
+4. **Water with every gel is non-negotiable.** Especially in humid conditions.
+5. **Racing sick = 3-5 minute penalty.** Even "mild" (1-2/10) respiratory symptoms compromise oxygen delivery and glycogen storage.
+6. **True fitness was 2:48:30-2:49:30.** With proper execution + health, sub-2:50 was absolutely achievable.
+
+**Training Plan Effectiveness:**
+- **Tuesday long runs:** YES - 18-20 milers felt easy, built great endurance base
+- **Wednesday quality workouts:** YES - Tempo work (6:16-6:27) proved I had the speed
+- **Sunday race-time adaptation:** Helpful but limited by weather/travel disruptions
+- **What would change:** More marathon-pace work WITH fueling practice at race intensity (not just easy long runs)
+
+**Performance Analysis:**
+- **Estimated time losses:**
+  - Illness (1-2/10): -1 to -2 min
+  - Poor pacing (6:25 vs 6:28 for 15 mi): -2 min
+  - Fueling breakdown (missed ~50g carbs): -1 to -2 min
+  - Humidity + headwind: -30 to -60 sec
+- **True fitness estimate:** 2:48:30-2:49:30 with perfect execution + health
+- **Conclusion:** Fitness was there. Execution was not. 100% fixable for Newport.
+
+**Next Steps:**
+- **Recovery plan:** 5-7 days complete rest, then 2 weeks easy running (25-45 mpw)
+- **Future goals:** Newport Marathon (late April) - Target sub-2:50 with lessons learned
+- **Immediate purchase:** Maurten Gel 100 (test in training before committing for race)
+
+---
+
+# NEWPORT MARATHON TRAINING - 8 Week Turnaround Plan
+
+**Target Race:** Newport Marathon - Late April 2026 (est. April 26)
+**Goal:** Sub-2:50 with proper execution
+**Gap from Napa:** ~8 weeks
+**Course:** Hillier and windier than Napa - expect slower times for same effort
+
+## Key Lessons from Napa to Apply
+
+### The 5 Critical Fixes for Newport
+
+1. **PACING DISCIPLINE** - Don't trust "easy" feeling. Stick to plan religiously.
+2. **FUELING STRATEGY** - Switch to Maurten Gel 100, practice at race pace, water with every gel
+3. **CONSERVATIVE START** - Even MORE conservative on hills
+4. **RACE-PACE FUELING PRACTICE** - Must practice gels during MP workouts, not just easy long runs
+5. **RACE DAY HEALTH** - Must be 100% healthy, no compromises
+
+### The Pacing-Fueling Death Spiral to Avoid
+
+**What happened at Napa:**
+- Miles 1-15 at 6:25 (felt easy but too fast) → nausea at mile 13 → reduced fueling → glycogen depletion → wall at mile 20 → 7:00/mile survival mode miles 21-26
+
+**Newport prevention:**
+- Strict pacing discipline (no faster than plan even if it feels easy)
+- Maurten gels practiced at race pace
+- Water with every gel
+- Mantra: "Easy now = strong at mile 24"
+
+---
+
+## Week 1 (Mar 2-8): FULL RECOVERY + ILLNESS CLEARANCE
+
+**Target Mileage:** 0-15 miles
+
+### Philosophy
+Complete recovery from both marathon effort AND lingering illness. Do NOT rush this. Arriving at Week 4 fully recovered is more important than maintaining fitness.
+
+| Day | Workout | Notes |
+|-----|---------|-------|
+| Mon-Wed (Mar 2-4) | **COMPLETE REST** | No running. Walk 15-30 min daily if desired. Sleep 8+ hrs. Eat well. |
+| Thu-Fri (Mar 5-6) | Rest or 20-30 min very easy jog | Only if feeling completely normal. No pace goals. |
+| Sat-Sun (Mar 7-8) | Rest or 20-30 min very easy jog | Pure shakeout runs if doing them |
+
+**Week Goals:**
+- Illness completely cleared
+- No lingering soreness/fatigue
+- Mentally refreshed
+
+**Week Notes:**
+- How I felt:
+- Illness status:
+- Ready for Week 2:
+
+---
+
+## Week 2 (Mar 9-15): ACTIVE RECOVERY
+
+**Target Mileage:** 25-35 miles
+
+### Philosophy
+Return to easy running. NO workouts, NO tempos, NO speed. Focus on feeling good, not hitting mileage targets. Listen to body.
+
+| Day | Planned | Actual | Notes |
+|-----|---------|--------|-------|
+| Mon | Rest or easy 4 @ 7:45-8:00 | | |
+| Tue | 6-8 miles easy @ 7:45-8:00 | | Should feel refreshing |
+| Wed | 5-7 miles easy @ 7:45-8:00 | | |
+| Thu | 5-6 miles easy @ 7:45-8:00 | | |
+| Fri | Rest or easy 4 | | |
+| Sat | 5-6 miles easy @ 7:30-7:45 | | |
+| Sun | 6-8 miles easy @ 7:30-7:45 | | |
+
+**Week Notes:**
+- Energy levels:
+- Any aches/pains:
+- Legs feeling heavy or fresh:
+- Ready for Week 3:
+
+---
+
+## Week 3 (Mar 16-22): REBUILD BASE
+
+**Target Mileage:** 35-45 miles
+
+### Philosophy
+Establish consistent running rhythm. Gradually increase volume. One medium-long run. Optional light strides at end of one run.
+
+| Day | Planned | Actual | Notes |
+|-----|---------|--------|-------|
+| Mon | Rest or easy 4-5 @ 7:30-7:45 | | |
+| Tue | **10-12 miles easy @ 7:30-7:45** | | First medium-long run |
+| Wed | 6-7 miles easy @ 7:30-7:45 | | |
+| Thu | 6-7 miles easy + optional 6x100m strides | | Strides only if feeling good |
+| Fri | 5-6 miles easy @ 7:30-7:45 | | |
+| Sat | Rest or easy 4 | | |
+| Sun | 8-10 miles easy @ 7:15-7:30 | | |
+
+**Week Notes:**
+- How did the 10-12 miler feel:
+- Did you do strides? How did they feel:
+- Fitness returning:
+- Ready for Week 4 assessment:
+
+---
+
+## Week 4 (Mar 23-29): ASSESS & INTRODUCE QUALITY
+
+**Target Mileage:** 45-50 miles
+
+### Philosophy
+**CRITICAL WEEK** - First quality session tells us if you're recovered. First long run back. If tempo feels hard/sluggish, extend easy base building another week.
+
+| Day | Planned | Actual | Notes |
+|-----|---------|--------|-------|
+| Mon | Rest or easy 4-5 @ 7:30 | | |
+| Tue | **14-16 miles easy @ 7:30-7:45** | | Second long run, keep easy |
+| Wed | **8-10 mi w/ 5-6mi tempo @ 6:40-6:50** | | **ASSESSMENT WORKOUT** - how does this feel? |
+| Thu | 6-7 miles easy @ 7:30+ | | Recovery critical |
+| Fri | 6 miles easy @ 7:30+ | | |
+| Sat | 5-6 miles easy @ 7:30 | | |
+| Sun | 8-10 miles easy @ 7:15-7:30 | | |
+
+**CRITICAL ASSESSMENT - Wednesday Tempo:**
+- [ ] Tempo felt controlled/strong → GREEN LIGHT for focused training
+- [ ] Tempo felt hard/labored → Extend easy running, treat Newport conservatively
+
+**Week Notes:**
+- Wednesday tempo assessment:
+- If tempo felt hard, why? (still fatigued, legs dead, breathing labored):
+- Decision: Proceed with Weeks 5-6 quality OR extend easy base:
+- Overall readiness for focused training:
+
+---
+
+## Week 5 (Mar 30-Apr 5): FOCUSED TRAINING - WEEK 1
+
+**Target Mileage:** 55-60 miles
+
+### Philosophy
+Compressed peak training. Focus on marathon-pace work WITH FUELING PRACTICE. This is what was missing from Napa prep.
+
+| Day | Planned | Actual | Notes |
+|-----|---------|--------|-------|
+| Mon | Rest or easy 5 @ 7:30 | | |
+| Tue | **16-18 miles easy @ 7:30-7:45** | | Fuel at 60/90/120 min |
+| Wed | **10-12 mi w/ 8mi @ MP (6:30-6:35)** | | **PRACTICE MAURTEN GELS** - take at miles 3, 6, 9 + water |
+| Thu | 7 miles easy @ 7:30+ | | Recovery essential |
+| Fri | 6-7 miles easy @ 7:30 | | |
+| Sat | 5-6 miles easy @ 7:30 | | |
+| Sun | **12-13 mi w/ 6-8mi @ MP (6:30-6:35)** | | More MP practice with fueling |
+
+**FUELING PRACTICE NOTES:**
+- Wednesday: Did you practice Maurten gels at miles 3, 6, 9?
+- How did stomach respond to gels at race pace?
+- Any nausea? If so, what might have caused it?
+- Sunday: Continue practicing gel timing
+
+**Week Notes:**
+- MP work felt:
+- Fueling practice success:
+- Confidence building:
+- Ready for Week 6:
+
+---
+
+## Week 6 (Apr 6-12): FOCUSED TRAINING - WEEK 2
+
+**Target Mileage:** 60-65 miles
+
+### Philosophy
+Peak volume week. Final big long run (18-20mi). More MP work with fueling. Hill-specific if possible (Newport is hilly).
+
+| Day | Planned | Actual | Notes |
+|-----|---------|--------|-------|
+| Mon | Rest or easy 5 @ 7:30 | | |
+| Tue | **18-20 miles easy @ 7:30-7:45** | | BIGGEST RUN - fuel at 45/75/105/135 min |
+| Wed | **10-12 mi w/ 3x2mi @ 6:30-6:40 w/ 0.5mi jog recovery** | | Intervals if feeling good, or tempo if tired |
+| Thu | 7 miles easy @ 7:30+ | | Recovery day |
+| Fri | 7 miles easy @ 7:30 | | |
+| Sat | 6 miles easy @ 7:30 | | |
+| Sun | **13 mi w/ 10mi @ MP effort (6:30-6:35)** | | BIGGEST MP DAY - practice fueling every 30-35 min |
+
+**HILL-SPECIFIC NOTES (if possible):**
+- Try to do some MP work on rolling hills
+- Practice downhill running (controlled, don't pound quads)
+- Uphills: maintain effort, accept slower pace
+
+**Week Notes:**
+- 18-20 miler how it felt:
+- Sunday 10mi @ MP - confidence:
+- Fueling practice dialed in:
+- Any issues to address:
+
+---
+
+## Week 7 (Apr 13-19): MINI-TAPER
+
+**Target Mileage:** 50-55 miles
+
+### Philosophy
+One last quality push, then begin freshening. Final race-specific stimulus. Volume starts dropping.
+
+| Day | Planned | Actual | Notes |
+|-----|---------|--------|-------|
+| Mon | Rest or easy 5 @ 7:30 | | |
+| Tue | **16-18 miles easy @ 7:30-7:45** | | Last long run - keep easy |
+| Wed | **10 mi w/ 6mi @ MP (6:30-6:35)** | | Final MP work with fueling |
+| Thu | 7 miles easy @ 7:30+ | | |
+| Fri | 6 miles easy @ 7:30 | | |
+| Sat | 5 miles easy @ 7:30 | | |
+| Sun | **10 miles easy + 8x100m strides** | | Strides to keep legs sharp |
+
+**Week Notes:**
+- Legs feeling fresh?
+- MP work still strong?
+- Ready for taper:
+- Mental preparation:
+
+---
+
+## Week 8 (Apr 20-26): RACE WEEK
+
+**Target Mileage:** ~20 miles + race (26.2)
+
+### Philosophy
+Drastic volume reduction. Strides to maintain sharpness. Carb loading. Race execution.
+
+| Day | Planned | Actual | Notes |
+|-----|---------|--------|-------|
+| Mon (Apr 20) | 5-6 miles easy @ 7:30 | | |
+| Tue (Apr 21) | 5-6 miles easy w/ 6x100m strides | | Stay sharp |
+| Wed (Apr 22) | 4-5 miles easy | | Short and easy |
+| Thu (Apr 23) | 3-4 miles easy w/ 6x100m strides | | Final strides |
+| Fri (Apr 24) | Rest or 2-3 miles easy | | Rest preferred - **BEGIN CARB LOADING** |
+| Sat (Apr 25) | 2-3 miles easy + 4x100m strides | | Loosen up - **FULL CARB LOAD DAY** |
+| Sun (Apr 26) | **RACE DAY - 26.2 miles** | | **NEWPORT MARATHON** |
+
+**Carb Loading (same protocol as Napa):**
+- Thursday: Normal intake
+- **Friday:** 10-12g/kg (~750-900g carbs) - see race-week-carb-loading-plan.md
+- **Saturday:** 8-10g/kg (~600-750g carbs) - dinner by 5-6 PM
+- **Sunday morning:** Pre-race meal 3-4 hrs before start
+
+**Week Notes:**
+- Sleep quality:
+- Carb loading execution:
+- Legs feeling fresh and ready:
+- Mental state:
+
+---
+
+## RACE DAY - Newport Marathon (April 26, 2026)
+
+**Race:** Newport Marathon
+
+### Pre-Race
+
+**Sleep night before:** ___ hours
+**Breakfast (3-4 hours before):** Bagel + jam + banana + sports drink (~155g carbs)
+**Time of breakfast:** _______________
+**Weather conditions:** _______________
+**How I felt at start line:** _______________
+
+### Race Strategy - LESSONS FROM NAPA APPLIED
+
+**PACING STRATEGY (Conservative for Hills):**
+
+**Miles 1-3: 6:40-6:45** (CONTROLLED START - even more conservative than Napa)
+- Don't trust "easy" feeling
+- Remember: Napa felt easy at 6:25, then hit wall at mile 20
+- Mantra: "Start controlled, finish strong"
+
+**Miles 4-15: 6:32-6:35** (STRICT - no faster even if it feels easy)
+- This is the discipline zone
+- Every second faster = 2 seconds slower late
+- Uphills: maintain effort, accept slower pace
+- Downhills: controlled, don't pound quads
+
+**Miles 16-20: 6:30-6:35** (Assess if you can pick it up)
+- If feeling strong, gradually increase
+- If feeling worked, maintain
+
+**Miles 21-26.2: HOLD THE LINE**
+- This is where Napa fell apart (7:00/mile)
+- Goal: Stay 6:35-6:40 through mile 24
+- Final 2 miles: everything left
+
+**Target Splits:**
+- Half: ~1:26:00-1:27:00 (conservative)
+- 20 miles: ~2:12:00-2:13:00
+- Finish: ~2:50:00-2:52:00 (hills = slower than flat)
+
+**IF COURSE IS EASIER THAN EXPECTED:** Could run 2:48-2:50
+
+### Fueling Strategy - MAURTEN GEL 100 PROTOCOL
+
+**Pre-Race:**
+- 30-45 min before start: Optional gel
+
+**During Race (every 30-35 minutes):**
+| Time/Mile | Action | Carbs |
+|-----------|--------|-------|
+| Mile 4-5 (30-35 min) | Maurten Gel #1 + WATER | 25g |
+| Mile 7-8 (50-55 min) | Maurten Gel #2 + WATER | 25g |
+| Mile 11-12 (75-80 min) | Maurten Gel #3 + WATER | 25g |
+| Mile 14-15 (100 min) | Maurten Gel #4 + WATER | 25g |
+| Mile 18-19 (125 min) | Maurten Gel #5 + WATER | 25g |
+| Mile 21-22 (150 min) | Maurten Gel #6 + WATER | 25g |
+| Mile 24-25 (175 min) | Maurten Gel #7 + WATER | 25g |
+
+**CRITICAL:**
+- Small sips of water with EVERY gel (prevents nausea)
+- Don't skip gels even if feeling good
+- At first sign of nausea: SLOW DOWN (don't skip fuel)
+
+### Mental Strategy
+
+**When Miles 1-10 Feel Easy:**
+- "This is the trap that cost me sub-2:50 at Napa"
+- "Easy now = strong at mile 24"
+- "Stick to 6:32-6:35, no faster"
+
+**Miles 18-24 (The Hard Miles):**
+- "I trained for this"
+- "One mile at a time"
+- "Napa fell apart here - not today"
+- Focus on form: posture, arm swing, turnover
+
+### Post-Race Analysis
+
+**Official Time:** _______
+
+**Goal Achievement:**
 - [ ] Sub-2:50 (PRIMARY GOAL)
-- [ ] Sub-2:58 (SECONDARY GOAL)
-- [ ] Sub-2:45 (STRETCH GOAL)
+- [ ] Sub-2:53 (Match Napa)
+- [ ] PR
 
 **What Went Well:**
 -
@@ -451,26 +865,18 @@ kept it minimal and took the rest week.
 -
 -
 
-**Race Execution:**
-- Pacing strategy:
-- Fueling execution:
-- Mental game:
-- Physical feeling:
+**Race Execution vs Plan:**
+- **Pacing discipline:** Did I stick to 6:32-6:35 for miles 4-15, or go too fast again?
+- **Fueling:** All 7 gels taken on schedule? Water with each? Any nausea?
+- **Mental game:** How did I handle miles 18-24 compared to Napa?
+- **Health:** Was I 100% healthy race morning?
 
-**Lessons Learned:**
--
--
--
+**Comparison to Napa:**
+- What was better:
+- What was worse:
+- Key lesson learned:
 
-**Training Plan Effectiveness:**
-- Did the Tuesday long runs prepare you adequately?
-- Were the Wednesday quality workouts effective?
-- Sunday race-time adaptation helpful?
-- What would you change for next marathon?
-
-**Next Steps:**
-- Recovery plan:
-- Future goals:
+**Next Marathon Plans:**
 -
 
 ---
